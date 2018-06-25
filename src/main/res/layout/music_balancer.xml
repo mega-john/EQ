@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:id="@+id/activity_background_rl" android:fitsSystemWindows="true" android:clipToPadding="true" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:orientation="vertical" android:id="@+id/music_balancer_left_frame" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="35dp" android:layout_marginTop="30dp">
+        <RelativeLayout android:id="@+id/music_balancer_seekbar_frame" android:background="@drawable/box_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="60dp" android:layout_marginTop="90dp" android:layout_below="@+id/music_balancer_increase">
+            <TextView android:textSize="25sp" android:textColor="@color/white" android:id="@+id/music_balancer_balancer" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="170dp" android:layout_marginTop="10dp"/>
+            <TextView android:textSize="25sp" android:textColor="@color/white" android:id="@+id/music_balancer_increase" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="100dp" android:layout_marginTop="90dp" android:text="@string/increase"/>
+            <TextView android:textSize="25sp" android:textColor="@color/white" android:id="@+id/music_balancer_add" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="120dp" android:text="@string/add" android:layout_toRightOf="@+id/music_balancer_increase" android:layout_alignTop="@+id/music_balancer_increase"/>
+            <RelativeLayout android:id="@+id/text_frame_bt_music_line" android:background="@drawable/line_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="33dp" android:layout_marginTop="160dp">
+                <SeekBar android:id="@+id/music_balancer_seekbar" android:paddingLeft="20dp" android:paddingRight="4dp" android:layout_width="366dp" android:layout_height="wrap_content" android:maxWidth="20dp" android:maxHeight="20dp" android:max="100" android:progress="0" android:progressDrawable="@drawable/music_balancer_seekbar_style" android:minWidth="20dp" android:minHeight="20dp" android:thumb="@drawable/dot" android:thumbOffset="23dp" style="?android:attr/progressBarStyleHorizontal"/>
+            </RelativeLayout>
+        </RelativeLayout>
+        <AbsoluteLayout android:id="@+id/music_balancer_right_frame" android:background="@drawable/car" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="580dp" android:layout_marginTop="0dp">
+            <ImageView android:id="@+id/music_balancer_dot" android:background="@drawable/car_dot" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="125dp" android:layout_marginTop="145dp"/>
+        </AbsoluteLayout>
+    </RelativeLayout>
+    <RelativeLayout android:orientation="vertical" android:id="@+id/music_balancer_frame" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="50dp" android:layout_marginTop="20dp" android:layout_below="@+id/music_balancer_left_frame">
+        <TextView android:textSize="20sp" android:textColor="@drawable/button_font_style" android:gravity="center" android:id="@+id/music_equalizer" android:background="@drawable/sound_style_balancer_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="170dp" android:text="@string/equalizer"/>
+        <TextView android:textSize="20sp" android:textColor="@drawable/button_font_style" android:gravity="center" android:id="@+id/music_reset" android:background="@drawable/sound_style_balancer_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="40dp" android:text="@string/reset" android:layout_toRightOf="@+id/music_equalizer"/>
+    </RelativeLayout>
+</LinearLayout>

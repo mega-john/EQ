@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:C.\AndroidProjects\OwniceEQ\libs\framework-dex2jar.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/framework-dex2jar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

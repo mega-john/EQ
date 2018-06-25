@@ -1,0 +1,534 @@
+[
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable_bt_music_seekbar_style_db1.xml.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable\\bt_music_seekbar_style_db1.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_style_reset.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_style_reset.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_bigbutton_bg.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_bigbutton_bg.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_start_okbutton.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\start_okbutton.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable_music_balancer_seekbar_style.xml.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable\\music_balancer_seekbar_style.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp-v13_bt_frame_music_eq.xml.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\layout-sw480dp-v13\\bt_frame_music_eq.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_button_bgoo.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_button_bgoo.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_style_box_bg.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_style_box_bg.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_line.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\line.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_line_over_old.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_line_over_old.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_style_db3.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_style_db3.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_style_scrool_db3.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_style_scrool_db3.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_button_bg.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_button_bg.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_buttons.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_buttons.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_buttons_over.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_buttons_over.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_style_button_over.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_style_button_over.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_over.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_over.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_icond.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\icond.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_icon.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\icon.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_start_leftbox.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\start_leftbox.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_style_db3.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_style_db3.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_style_scrool_db2.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_style_scrool_db2.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_line_bg.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\line_bg.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_style_button_overq.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_style_button_overq.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_line_bg.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_line_bg.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp-v13_music_balancer.xml.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\layout-sw480dp-v13\\music_balancer.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable_bt_music_seekbar_style_db2.xml.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable\\bt_music_seekbar_style_db2.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_button_bg.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_button_bg.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp-v13_popwindow_frame.xml.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\layout-sw480dp-v13\\popwindow_frame.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_start_rightbox.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\start_rightbox.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_style_scrool_hz.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_style_scrool_hz.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_buttons.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_buttons.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_icon.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\icon.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable_sound_style_balancer_bg.xml.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable\\sound_style_balancer_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_bg_line.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\bg_line.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_bluetooth_main_background.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\bluetooth_main_background.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_car.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\car.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_line.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_line.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_car_dot.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\car_dot.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_arrow_up.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\arrow_up.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_text_over.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\text_over.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_button_bg_over.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\button_bg_over.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\xml-sw600dp-v13_bt_frame_music_eq.xml.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\xml-sw600dp-v13\\bt_frame_music_eq.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_bigbutton_over.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_bigbutton_over.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable_bt_music_seekbar_style_db3.xml.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable\\bt_music_seekbar_style_db3.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_style_db.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_style_db.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_start_left_list_line.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\start_left_list_line.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_style_button_overq.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_style_button_overq.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sold_ound_style_db.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sold_ound_style_db.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_text_over.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\text_over.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_style_scrool_bg.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_style_scrool_bg.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_car_dot.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\car_dot.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_start_okbutton.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\start_okbutton.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_style_reset.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_style_reset.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_start_arrow.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\start_arrow.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_box.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_box.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_start_arrow.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\start_arrow.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_style_scrool_hz.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_style_scrool_hz.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_dot.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\dot.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_buttons_over.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_buttons_over.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable_sound_style_button.xml.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable\\sound_style_button.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_arrow_up.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\arrow_up.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_bigbutton_bg.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_bigbutton_bg.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_style_button_bg.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_style_button_bg.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_popwindow_frame.xml.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\layout-sw600dp-v13\\popwindow_frame.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable_bt_music_seekbar_style_2.xml.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable\\bt_music_seekbar_style_2.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_sound.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-mdpi-v4\\sound.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_box.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_box.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_style_scrool_bg.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_style_scrool_bg.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_bg.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\bg.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_button_bg_over.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_button_bg_over.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_button_bg_over.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\button_bg_over.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_button_over.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\button_over.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_line_bg.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\line_bg.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable_music_eq_bg.xml.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable\\music_eq_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_start_left_listbg.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\start_left_listbg.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\layout_music_balancer.xml.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\layout\\music_balancer.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\xml-sw480dp-v13_bt_frame_music_eq.xml.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\xml-sw480dp-v13\\bt_frame_music_eq.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_style_scrool_db2.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_style_scrool_db2.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_start_left_bg_over.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\start_left_bg_over.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_box_bg.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\box_bg.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_style_hz.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_style_hz.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_button.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\button.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_style_button_bg.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_style_button_bg.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_button.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\button.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_style_button_bgq.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_style_button_bgq.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_line_over.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_line_over.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_style_scrool_db3.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_style_scrool_db3.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_dot.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\dot.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_over.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_over.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_line.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\line.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_start_left_list_line.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\start_left_list_line.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_start_left_bg_over.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\start_left_bg_over.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_bigbutton_over.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_bigbutton_over.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_start_left_listbg.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\start_left_listbg.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_car.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\car.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_line_over.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_line_over.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable_button_font_style.xml.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable\\button_font_style.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_line.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_line.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_line_bg.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_line_bg.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_style_button_bgq.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_style_button_bgq.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_start_okbutton_over.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\start_okbutton_over.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_start_okbutton_over.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\start_okbutton_over.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_bg_line.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\bg_line.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_style_hz.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_style_hz.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_bluetooth_main_background.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\bluetooth_main_background.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_button_bg.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\button_bg.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_main.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_main.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_style_box_bg.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_style_box_bg.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_bt_frame_music_eq.xml.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\layout-sw600dp-v13\\bt_frame_music_eq.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_start_leftbox.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\start_leftbox.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_start_rightbox.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\start_rightbox.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_music_balancer.xml.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\layout-sw600dp-v13\\music_balancer.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_style_button_over.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_style_button_over.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_icond.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\icond.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_main.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_main.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_line_over_old.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_line_over_old.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sold_ound_style_db.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sold_ound_style_db.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_button_over.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\button_over.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\layout_popwindow_frame.xml.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\layout\\popwindow_frame.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_style_db.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_style_db.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_arrow_down.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\arrow_down.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_bg.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\bg.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_box_bg.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\box_bg.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_arrow_down.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\arrow_down.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\layout_bt_frame_music_eq.xml.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\layout\\bt_frame_music_eq.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_button_bg_over.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_button_bg_over.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13_sound_style_scrool_db1.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw600dp-v13\\sound_style_scrool_db1.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_button_bgoo.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_button_bgoo.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_sound_style_scrool_db1.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\sound_style_scrool_db1.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\OwniceEQ\\build\\intermediates\\res\\merged\\debug\\drawable-sw480dp-v13_button_bg.png.flat",
+        "source": "C:\\AndroidProjects\\OwniceEQ\\src\\main\\res\\drawable-sw480dp-v13\\button_bg.png"
+    }
+]

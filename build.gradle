@@ -1,0 +1,36 @@
+buildscript {
+    repositories {
+        jcenter()
+        google()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.1.3'
+    }
+}
+apply plugin: 'com.android.application'
+
+repositories {
+    mavenCentral()
+    jcenter()
+}
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion '27.0.3'
+
+    defaultConfig {
+        applicationId 'cs2c.EQ'
+        minSdkVersion 19
+        targetSdkVersion 19
+        versionCode 1
+        versionName "1.0"
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+}
+
+dependencies {
+    compileOnly files('libs/framework-dex2jar.jar')
+}

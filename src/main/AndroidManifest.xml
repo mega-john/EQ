@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cs2c.EQ"
+    android:versionCode="3"
+    android:versionName="1.0.1">
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="22" />
+    <application
+        android:icon="@drawable/sound"
+        android:label="@string/app_name">
+        <activity
+            android:name=".EQActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTask">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Balancer"
+            android:theme="@android:style/Theme.Wallpaper.NoTitleBar.Fullscreen" />
+
+        <receiver android:name=".EQBroadcastReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="cn.com.cs2c.android.vehicle.action.EQ_KEY" />
+            </intent-filter>
+        </receiver>
+    </application>
+</manifest>

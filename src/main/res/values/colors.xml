@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ggreen">#73d71a</color>
+    <color name="wwhite">#ffffff</color>
+    <color name="blackcolor">#000000</color>
+    <color name="radiocolor">#455258</color>
+    <color name="orange">#ff8a00</color>
+    <color name="blue">#0090ff</color>
+    <color name="gray">#d0d0d0</color>
+    <color name="white">#ffffff</color>
+</resources>
